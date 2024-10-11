@@ -1,8 +1,8 @@
 {
   "versionCode": 406,
-  "versionName": "v4.6",
+  "versionName": "4.6",
   "changelog": [
-    "Perbaikan Proteksi Lisensi Key",
+    "Perbaikan Proteksi Lisensi Keys",
     "Adding Swipe Refresh Playlist",
     "Block Connection VPN",
     "Anti Decompile Apps",
