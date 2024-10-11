@@ -1,0 +1,12 @@
+{
+    "versionCode": 101,
+    "versionName": "v1.0",
+    "changelog": [
+        "Perbaikan Proteksi Lisensi Key",
+        "Adding Swipe Refresh Playlist",
+        "Block Connection VPN",
+        "Anti Decompile Apps",
+        "And More..."
+    ],
+    "downloadUrl": "https://hometv.id/files/apk/1.0/HomeTV_v3_New.apk"
+}
