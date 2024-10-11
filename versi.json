@@ -1,12 +1,12 @@
 {
-    "versionCode": 101,
-    "versionName": "v4.7",
-    "changelog": [
-        "Perbaikan Proteksi Lisensi Key",
-        "Adding Swipe Refresh Playlist",
-        "Block Connection VPN",
-        "Anti Decompile Apps",
-        "And More..."
-    ],
-    "downloadUrl": "https://asal77.serv00.net/files/New_v4.apk"
+  "versionCode": 101,
+  "versionName": "v4.6",
+  "changelog": [
+    "Perbaikan Proteksi Lisensi Key",
+    "Adding Swipe Refresh Playlist",
+    "Block Connection VPN",
+    "Anti Decompile Apps",
+    "And More..."
+  ],
+  "downloadUrl": "https://asal77.serv00.net/files/New_v4.apk"
 }
