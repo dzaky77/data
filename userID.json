@@ -1,77 +1,77 @@
 [
-    {
-        "server": "Just",
-        "device_id": "4888f3ea-0450-48ec-8d36-81887dec30c4",
-        "name": "Ghaizan"
-    },
-    {
+  {
     "server": "Just",
-        "device_id": "30b21a31-4e9c-4127-b928-31848a36caba",
-        "name": "Gabriel"
-    },
-    {
+    "device_id": "4888f3ea-0450-48ec-8d36-81887dec30c4",
+    "name": "Ghaizan"
+  },
+  {
     "server": "Just",
-        "device_id": "b03b521e-cf6e-4e9e-813a-d30c921aaf41",
-        "name": "TV"
-    },
-    {
+    "device_id": "30b21a31-4e9c-4127-b928-31848a36caba",
+    "name": "Gabriel"
+  },
+  {
     "server": "Just",
-        "device_id": "e6d170dc-034c-4ca1-a362-2407ef6ec936",
-        "name": "Nurrokhman"
-    },
-    {
+    "device_id": "b03b521e-cf6e-4e9e-813a-d30c921aaf41",
+    "name": "TV"
+  },
+  {
     "server": "Just",
-        "device_id": "a87d8597-a95a-4b3d-8ba7-df9450a7798c",
-        "name": "Sepnu"
-    },
-    {
+    "device_id": "e6d170dc-034c-4ca1-a362-2407ef6ec936",
+    "name": "Nurrokhman"
+  },
+  {
     "server": "Just",
-        "device_id": "8ab622fe-8bfb-4fad-8fa3-7bcacf2d0042",
-        "name": "TV Slimpet"
-    },
-    {
+    "device_id": "a87d8597-a95a-4b3d-8ba7-df9450a7798c",
+    "name": "Sepnu"
+  },
+  {
     "server": "Just",
-        "device_id": "9232a690-df88-4a8a-8ae7-71b055269b63",
-        "name": "TV"
-    },
-    {
+    "device_id": "8ab622fe-8bfb-4fad-8fa3-7bcacf2d0042",
+    "name": "TV Slimpet"
+  },
+  {
+    "server": "Just",
+    "device_id": "9232a690-df88-4a8a-8ae7-71b055269b63",
+    "name": "TV"
+  },
+  {
     "server": "Asal",
-        "device_id": "407ed3ed-1762-44b0-9bfb-97fad41dd9e2",
-        "name": "Syarief"
-    },
-    {
+    "device_id": "407ed3ed-1762-44b0-9bfb-97fad41dd9e2",
+    "name": "Syarief"
+  },
+  {
     "server": "TR77",
-        "device_id": "9f6ba945-14b5-4bcc-a821-7a30800ee1d3",
-        "name": "Mas Saman"
-    },
-    {
+    "device_id": "9f6ba945-14b5-4bcc-a821-7a30800ee1d3",
+    "name": "Mas Saman"
+  },
+  {
     "server": "TR77",
-        "device_id": "586f8524-ac04-47db-b9d1-24b403f2bf95",
-        "name": "Mas Bayu"
-    },
-    {
+    "device_id": "586f8524-ac04-47db-b9d1-24b403f2bf95",
+    "name": "Mas Bayu"
+  },
+  {
     "server": "TR77",
-        "device_id": "159177c8-b4f0-4ca8-bce4-ec93983b3a5c",
-        "name": "Toha STB"
-    },
-    {
+    "device_id": "159177c8-b4f0-4ca8-bce4-ec93983b3a5c",
+    "name": "Toha STB"
+  },
+  {
     "server": "TR77",
-        "device_id": "2d478f20-7a91-4e61-b688-ff0cb8c47edd",
-        "name": "Tanto"
-    },
-    {
+    "device_id": "2d478f20-7a91-4e61-b688-ff0cb8c47edd",
+    "name": "Tanto"
+  },
+  {
     "server": "TR77",
-        "device_id": "28dda100-92ed-40c6-abce-b5e18650d5a5",
-        "name": "Tanto 2"
-    },
-    {
+    "device_id": "28dda100-92ed-40c6-abce-b5e18650d5a5",
+    "name": "Tanto 2"
+  },
+  {
     "server": "TR77",
-        "device_id": "a82ffaf5-b2e8-4e1a-9f6a-0e574766543c",
-        "name": "Chairul Amri"
-    },
-    {
+    "device_id": "a82ffaf5-b2e8-4e1a-9f6a-0e574766543c",
+    "name": "Chairul Amri"
+  },
+  {
     "server": "TR77",
-        "device_id": "b11a5015-1e1e-4104-a5f4-2f2b8bb13c73",
-        "name": "Rohman Yuman"
-    }
+    "device_id": "b11a5015-1e1e-4104-a5f4-2f2b8bb13c73",
+    "name": "Rohman Yuman"
+  }
 ]
