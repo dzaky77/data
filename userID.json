@@ -51,6 +51,11 @@
   },
   {
     "server": "TR77",
+    "device_id": "560db546-8191-453d-9e0f-860ac86bbbab",
+    "name": "Mas Bayu2"
+  },
+  {
+    "server": "TR77",
     "device_id": "159177c8-b4f0-4ca8-bce4-ec93983b3a5c",
     "name": "Toha STB"
   },
