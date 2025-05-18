@@ -76,6 +76,11 @@
   },
   {
     "server": "TR77",
+    "device_id": "ab6f80d3-42a4-43f2-9193-45f01589f38f",
+    "name": "Rohman Yuman 2"
+  },
+  {
+    "server": "TR77",
     "device_id": "b11a5015-1e1e-4104-a5f4-2f2b8bb13c73",
     "name": "Rohman Yuman"
   }
